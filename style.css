@@ -199,7 +199,7 @@ body {
 .bar-container {
   height: 2.7rem;
 }
-.dinosaur-box {
+.angry-box {
   position: absolute;
   top: 0;
   left: 0;
@@ -208,7 +208,7 @@ body {
   width: 100%;
   background-color: rgba(117, 204, 84, 0.2);
 }
-.dinosaur-bar {
+.angry-bar {
   position: absolute;
   top: 0;
   left: 0;
@@ -216,7 +216,7 @@ body {
   border-radius: 10px;
   background-color: rgba(117, 204, 84, 1);
 }
-.deer-box {
+.excited-box {
   position: absolute;
   top: 0;
   left: 0;
@@ -225,7 +225,7 @@ body {
   width: 100%;
   background-color: rgba(117, 204, 84, 0.2);
 }
-.deer-bar {
+.excited-bar {
   position: absolute;
   top: 0;
   left: 0;
@@ -233,7 +233,7 @@ body {
   border-radius: 10px;
   background-color: rgba(117, 204, 84, 1);
 }
-.dog-box {
+.happy-box {
   position: absolute;
   top: 0;
   left: 0;
@@ -242,7 +242,7 @@ body {
   width: 100%;
   background-color: rgba(27, 175, 234, 0.2);
 }
-.dog-bar {
+.happy-bar {
   position: absolute;
   top: 0;
   left: 0;
@@ -250,7 +250,7 @@ body {
   border-radius: 10px;
   background-color: rgba(27, 175, 234, 1);
 }
-.cat-box {
+.sad-box {
   position: absolute;
   top: 0;
   left: 0;
@@ -259,7 +259,7 @@ body {
   width: 100%;
   background-color: rgba(251, 176, 59, 0.2);
 }
-.cat-bar {
+.sad-bar {
   position: absolute;
   top: 0;
   left: 0;
@@ -267,7 +267,7 @@ body {
   border-radius: 10px;
   background-color: rgba(251, 176, 59, 1);
 }
-.bear-box {
+.scared-box {
   position: absolute;
   top: 0;
   left: 0;
@@ -276,7 +276,7 @@ body {
   width: 100%;
   background-color: rgba(195, 140, 102, 0.2);
 }
-.bear-bar {
+.scared-bar {
   position: absolute;
   top: 0;
   left: 0;
